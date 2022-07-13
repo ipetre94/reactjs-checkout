@@ -1,0 +1,16 @@
+{
+  "extends": ["react-app", "react-app/jest", "plugin:prettier/recommended"],
+  "rules": {
+    "prettier/prettier": "error",
+    "import/order": [
+      "error",
+      {
+        "newlines-between": "always",
+        "alphabetize": {
+          "order": "asc",
+          "caseInsensitive": true
+        }
+      }
+    ]
+  }
+}
