@@ -6,7 +6,9 @@ For installation use following scripts: npm install + npm start.
 
 ## What I have used
 
-Stack: ReactJS, reduxjs/toolkit for state management, react-router for routing, Formik for creating forms, Yup for validating forms, Mocky (https://designer.mocky.io/) for the mock of APIs.
+Stack: ReactJS + Typescript, reduxjs/toolkit for state management, react-router for routing, Formik for creating forms, Yup for validating forms, Mocky (https://designer.mocky.io/) for the mock of APIs.
+
+Others: ESLint for identifying problematic patterns found in JavaScript code.
 
 ## Things that can be improved
 
